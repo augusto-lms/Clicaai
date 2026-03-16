@@ -1,9 +1,3 @@
-/* ============================================
-   PCA Parabrisas — Scripts
-   main.js
-   ============================================ */
-
-// Salvar contato como vCard
 document.getElementById('btn-save')?.addEventListener('click', (e) => {
   e.preventDefault();
   const vcard = [
